@@ -15,6 +15,10 @@ Churn prediction involves identifying customers who might cancel a service based
 
 # EDA insights
 ![image](https://github.com/Shashankforcode2408/Churn_prediction_model/assets/126846732/e17b497d-e955-4e1b-899f-36a1aa23be59)
+![image](https://github.com/Shashankforcode2408/Churn_prediction_model/assets/126846732/5581afa3-582d-414b-a5ad-adde765de38b)
+![image](https://github.com/Shashankforcode2408/Churn_prediction_model/assets/126846732/e65ac089-6417-4508-b845-70241857d465)
+
+
 
 
 
