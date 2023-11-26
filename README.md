@@ -22,9 +22,15 @@ Churn prediction involves identifying customers who might cancel a service based
 
 ![image](https://github.com/Shashankforcode2408/Churn_prediction_model/assets/126846732/5581afa3-582d-414b-a5ad-adde765de38b)
 
-3. 
+3. Heatmaap
+   
 ![image](https://github.com/Shashankforcode2408/Churn_prediction_model/assets/126846732/e65ac089-6417-4508-b845-70241857d465)
+
+4. Grouping shows Non-senior Citizen are more churners
+   
 ![image](https://github.com/Shashankforcode2408/Churn_prediction_model/assets/126846732/76a62979-0076-495d-a3a1-e1b8ec48865d)
+
+5. Corelation of Churn to other features
 ![image](https://github.com/Shashankforcode2408/Churn_prediction_model/assets/126846732/510d8ac8-2d28-4bc3-8526-ae0eb2af9546)
 
 
