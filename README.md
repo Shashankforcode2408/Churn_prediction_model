@@ -57,7 +57,7 @@ Observations: While Random Forest showed acceptable performance, it fell short i
 
 2. During my evaluation, I tried Categorical Boost with SMOTETomek. Categorical Boost builds models step by step, focusing on areas where previous models had trouble. This approach is great for fixing mistakes and works well with imbalanced data like in churn prediction. SMOTETomek, the trick I added, balances out the uneven data by adjusting how many examples it uses from each group.
 
-This combo helped tackle the imbalance issue we often face in churn prediction.
+Observations: Categorical Boost, particularly when coupled with SMOTETomek for handling imbalanced data, outperformed Random Forest in handling the class imbalance and predicting churn accurately.
 
 ![image](https://github.com/Shashankforcode2408/Churn_prediction_model/assets/126846732/34f14ff3-c0d1-4c17-b8b2-e50b62087cd7)
 
