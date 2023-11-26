@@ -50,18 +50,20 @@ Both models were trained on a dataset containing various customer features( ‘A
 
 # Model Comparison 
 1. The Random Forest Classifier was one of the models I tested. It works by combining many decision trees to predict whether customers might leave. In my tests, it showed good accuracy(0.82) and a fair F1 score, indicating it's decent at predicting customer churn in our dataset.
+
 Observations: While Random Forest showed acceptable performance, it fell short in addressing class imbalance issues inherent in the dataset.
 
 ![image](https://github.com/Shashankforcode2408/Churn_prediction_model/assets/126846732/ff5c8322-fd62-4858-9e6a-10bab56f0689)
 
 2. During my evaluation, I tried Categorical Boost with SMOTETomek. Categorical Boost builds models step by step, focusing on areas where previous models had trouble. This approach is great for fixing mistakes and works well with imbalanced data like in churn prediction. SMOTETomek, the trick I added, balances out the uneven data by adjusting how many examples it uses from each group.
+
 This combo helped tackle the imbalance issue we often face in churn prediction.
 
 ![image](https://github.com/Shashankforcode2408/Churn_prediction_model/assets/126846732/34f14ff3-c0d1-4c17-b8b2-e50b62087cd7)
 
 ![image](https://github.com/Shashankforcode2408/Churn_prediction_model/assets/126846732/0b394316-fab9-4ead-95e1-87594491305c)
 
-# Find More detailed report and analysis in the Report file and RAID deocument. 
+# Find More detailed report and analysis in the Report file and RAID document. 
 
 
 
