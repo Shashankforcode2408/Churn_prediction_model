@@ -1,5 +1,9 @@
 # Churn_prediction_model
-Churn prediction involves identifying customers who might cancel a service based on their usage patterns. This prediction holds significant importance for businesses as retaining existing customers is more cost-effective than acquiring new ones. Detecting at-risk customers enables tailored marketing strategies, allowing businesses to take specific actions for each customer, ultimately increasing the likelihood of customer retention.
+Churn prediction involves identifying customers who might cancel a service based on their usage patterns. This prediction holds significant importance for businesses as retaining existing customers is more cost-effective than acquiring new ones. Detecting at-risk customers enables tailored marketing strategies, allowing businesses to take specific actions for each customer, ultimately increasing the likelihood of customer retention. The models used for Prediction are- 
+1. Categorical Boost Classifier
+2. Random Forest Classifier
+3. SMOTETomek technique
+4. Tomeklinks 
 
 # Steps involved in Model Deployment:
 1. Data Analysis (EDA)
@@ -31,7 +35,10 @@ Churn prediction involves identifying customers who might cancel a service based
 ![image](https://github.com/Shashankforcode2408/Churn_prediction_model/assets/126846732/76a62979-0076-495d-a3a1-e1b8ec48865d)
 
 5. Corelation of Churn to other features
+   
 ![image](https://github.com/Shashankforcode2408/Churn_prediction_model/assets/126846732/510d8ac8-2d28-4bc3-8526-ae0eb2af9546)
+
+# 
 
 
 
