@@ -5,6 +5,8 @@ This repository contains code for predicting Customer Churn on Telecommunication
 3. SMOTETomek technique
 5. Tomeklinks
 
+I have preprocessed the data to handle missing and categorical values, and prepare it for analysis.
+
 # What is Churn?
 Churn prediction involves identifying customers who might cancel a service based on their usage patterns. This prediction holds significant importance for businesses as retaining existing customers is more cost-effective than acquiring new ones. Detecting at-risk customers enables tailored marketing strategies, allowing businesses to take specific actions for each customer, ultimately increasing the likelihood of customer retention. 
 
