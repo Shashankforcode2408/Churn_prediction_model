@@ -17,8 +17,8 @@ Churn prediction involves identifying customers who might cancel a service based
 
 # Objective of the model
 1. To determine the percentage of customers who churn and those who remain active
-2. To analyze the data to identify features influencing customer churn, and
-3. To identify the most suitable machine learning model for accurately classifying churn and non-churn customers.
+3. To analyze the data to identify features influencing customer churn, and
+4. To identify the most suitable machine learning model for accurately classifying churn and non-churn customers.
 
 # EDA insights
 1. Contract-categorization 
