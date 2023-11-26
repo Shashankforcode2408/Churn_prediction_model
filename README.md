@@ -41,7 +41,16 @@ Churn prediction involves identifying customers who might cancel a service based
    
 ![image](https://github.com/Shashankforcode2408/Churn_prediction_model/assets/126846732/510d8ac8-2d28-4bc3-8526-ae0eb2af9546)
 
-# 
+# Modeling 
+I tried the model to work on two machine learning models: 
+1. Categorical Boost with SMOTETomek( Higher Accuracy and F1 Score)
+2. Random Forest Classifier
+Both models were trained on a dataset containing various customer features( ‘Age’, ‘Martial Status’, ‘Monthly Charges’, ‘Gender’) and with the Kaggle dataset provided in the Google Form. Here is the model Comparison for the Both - 
+
+# Model Comparison 
+1. The Random Forest Classifier was one of the models I tested. It works by combining many decision trees to predict whether customers might leave. In my tests, it showed good accuracy(0.82) and a fair F1 score, indicating it's decent at predicting customer churn in our dataset. Observations: While Random Forest showed acceptable performance, it fell short in addressing class imbalance issues inherent in the dataset.
+2. During my evaluation, I tried Categorical Boost with SMOTETomek. Categorical Boost builds models step by step, focusing on areas where previous models had trouble. This approach is great for fixing mistakes and works well with imbalanced data like in churn prediction. SMOTETomek, the trick I added, balances out the uneven data by adjusting how many examples it uses from each group. This combo helped tackle the imbalance issue we often face in churn prediction.
+
 
 
 
