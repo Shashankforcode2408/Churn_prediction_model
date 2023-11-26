@@ -1,9 +1,12 @@
 # Churn_prediction_model
-Churn prediction involves identifying customers who might cancel a service based on their usage patterns. This prediction holds significant importance for businesses as retaining existing customers is more cost-effective than acquiring new ones. Detecting at-risk customers enables tailored marketing strategies, allowing businesses to take specific actions for each customer, ultimately increasing the likelihood of customer retention. The models used for Prediction are- 
+This repository contains code for predicting Customer Churn on Telecommunication company using various machine learning algorithms. The dataset is loaded using Python libraries like NumPy, Pandas, Seaborn, and Matplotlib. The analysis includes data visualization, data preprocessing, feature engineering, and model training. The models used for prediction are:
 1. Categorical Boost Classifier
 2. Random Forest Classifier
 3. SMOTETomek technique
-4. Tomeklinks 
+4. Tomeklinks
+
+#What is Churn?
+Churn prediction involves identifying customers who might cancel a service based on their usage patterns. This prediction holds significant importance for businesses as retaining existing customers is more cost-effective than acquiring new ones. Detecting at-risk customers enables tailored marketing strategies, allowing businesses to take specific actions for each customer, ultimately increasing the likelihood of customer retention. 
 
 # Steps involved in Model Deployment:
 1. Data Analysis (EDA)
